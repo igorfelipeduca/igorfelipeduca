@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Igor Duca](https://twitter.com/ducaswtf)! ⚛️
 
-Hello, my name is Igor Duca and I am a brazilian front-end developer. Co-founder of [ECMA](https://instagram.com/ecma.fintech). Passionate to study new things and transform daily knowledgements into code.
+Hello, my name is Igor Duca and I am a brazilian front-end developer. Co-founder of [ECMA](https://instagram.com/ecma.fintech) and Tech Leader at LotsMojo. Passionate to study new things and transform daily knowledgements into code.
 
 - 📫 How to reach me: duccaigor@protonmail.com
 
