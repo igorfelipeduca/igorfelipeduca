@@ -25,7 +25,4 @@ Hello, my name is Igor Duca and I am a brazilian front-end developer. Co-founder
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
 ![Astro](https://img.shields.io/badge/-Astro-black?logo=astro&style=social)&nbsp;&nbsp;
 
-![Igor Duca's Github Stats](https://github-readme-stats.vercel.app/api?username=igorfelipeduca&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfelipeduca&hide=TeX&layout=compact)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=igorfelipeduca.igorfelipeduca)
