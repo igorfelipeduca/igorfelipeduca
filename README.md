@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Igor Duca](https://twitter.com/ducaswtf)! ⚛️
 
-My name is Duca. Software Engineer specialist 
+My name is Duca. Front-End Specialist
 
 - 📫 How to reach me: igorducca@gmail.com
 
